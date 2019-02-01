@@ -28,7 +28,7 @@ import java.util.Map;
 public interface Connection {
 
     /**
-     * GET and POST http methods. abct
+     * GET and POST http methods. abctff
      */
     enum Method {
         GET(false), POST(true), PUT(true), DELETE(false), PATCH(true), HEAD(false), OPTIONS(false), TRACE(false);
